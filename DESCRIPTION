@@ -15,5 +15,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Suggests: knitr, rmarkdown, GenomeInfoDb
 VignetteBuilder: knitr
-
+URL: https://github.com/GRealesM/RapidoPGS
 
